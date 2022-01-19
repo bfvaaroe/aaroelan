@@ -2,6 +2,8 @@
 
 Weeb lan som afholdes af Aarø's unge human beings!
 
+**NÆSTE LAN 18-20 Februar 2022 - Vi arbejder på måske at kunne starte op torsdag så vi lige har en dag mere :-)**
+
 Discord server for lan:
 > https://discord.gg/Ezk52WKr
 
