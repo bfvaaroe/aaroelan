@@ -1,0 +1,1 @@
+Simpel kode som genbruges ved hvert lan, primært til Unraid.
