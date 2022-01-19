@@ -5,5 +5,4 @@
 
 
 ## Server Adresser
-- 
-
+- Discor -  "https://discord.gg/3fMdYe2GgH"
