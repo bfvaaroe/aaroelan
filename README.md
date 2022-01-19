@@ -11,7 +11,7 @@ Prisen for en weekend plejer at ligge på omkring en flad 50'er alt efter om der
 Du kan se tilmeldingslisten "participants" og skrive dig selv på og lave et pull request så godkender vi!
 
 
-Ellers skriv på Discord @Emil eller @Physx82
+Ellers skriv på Discord "#offtopic" eller "#member-chat" kanal
 
 Eftersom folk ikke dukkede op og der var købt mad må der simpelthen laves bindene tilmelding. Dårlige 
 undskyldninger godtages ikke.
