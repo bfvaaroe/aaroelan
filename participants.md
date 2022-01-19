@@ -5,6 +5,9 @@
 - Emil
 - Martin 
 - René
+- Søren
+- Marc "Hoax"
+- Morten
 
 ## Fredag - Lørdag
 
