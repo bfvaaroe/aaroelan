@@ -8,6 +8,7 @@
 - Søren
 - Marc "Hoax"
 - Morten
+- Emils kollega [Eduard]
 
 ## Fredag - Lørdag
 
